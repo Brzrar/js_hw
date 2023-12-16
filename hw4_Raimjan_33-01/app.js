@@ -34,7 +34,7 @@ var calculatePoints = (cardType, liters) => {
             break;
         default:
             points = 0;
-            console.log("Error: Неверно указан тип карты.");
+            console.log("Введите корректно тип карты");
             break;
     }
 
