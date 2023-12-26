@@ -1,0 +1,30 @@
+body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-image: url("img/hw6.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+
+    }
+
+#generateButton {
+      width: 100%;
+      color: black;
+      background-color: white;
+}
+.inner {
+
+}
+
+h1 {
+      font-size: 40px;
+      text-align: center;
+}
+
+p {
+      font-size: 20px;
+      text-align: center;
+}
